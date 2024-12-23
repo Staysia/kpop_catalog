@@ -1,0 +1,112 @@
+[
+    {
+        "id": 1,
+        "name": "Лайтстик BLACKPINK - Official Light Stick (Ver. 2)",
+         "description": "Описание: Официальный лайтстик BLACKPINK Наполнение: коробка; лайтстик; браслет-держатель; инструкция",
+        "price": 4990,
+        "categoryId": "1",
+        "subcategoryId": "101",
+        "mainImage": "img/BP-1.webp",
+        "additionalImages": ["img/BP-1.webp", "img/BP-2.webp", "img/BP-3.webp", "img/BP-4.webp", "img/BP-5.webp", "img/BP-6.webp"]
+    },
+     {
+        "id": 2,
+        "name": "Альбом ROSÉ - rosie (KR Exclusive)",
+         "description": "Описание: Дата релиза: 6 декабря 2024. Сроки доставки 1-2 месяца с даты релиза. Наполнение: размер упаковки : 305x305 мм; CD-R: 1 дюйм (ов); открытка на обложке : 280x280 мм; Открытки на выбор / 3 из 5 случайных открыток; фотокарта / 2 из 10; фотокарта, эксклюзивная для Кореи / 1 шт; постер: 560x840 мм / 1 шт (эксклюзивный для Кореи)",
+         "price": 3390,
+         "categoryId": "2",
+        "subcategoryId": "202",
+        "mainImage": "img/r-1.webp",
+       "additionalImages": ["img/r-1.webp", "img/r-2.webp"]
+    },
+    {
+        "id": 5,
+        "name": "Альбом STRAY KIDS - SKZ2020 [2CD] (STANDARD VER.)",
+         "description": "Описание: Релиз 18 марта 2020. Сроки доставки 1,5-2 месяца после релиза. Японский альбом STRAY KIDS - SKZ2020 (STANDARD VER.)",
+         "price": 5590,
+         "categoryId": "2",
+        "subcategoryId": "203",
+        "mainImage": "img/S-1.webp",
+       "additionalImages": ["img/S-1.webp"]
+    },
+    {
+        "id": 6,
+        "name": "Альбом ITZY - [GOLD] (STANDARD Ver.)",
+         "description": "Описание: Дата релиза: 15 октября 2024. Сроки доставки 1-2 месяца с даты релиза. Наполнение: внешняя коробка, фотобук, конверт для фотокарточек, фотокарточка: 2 случайные из 15, CD-R: 3 версии, конверт для CD-R: 1 шт, лложенный постер: 1 случайный из 3, открытка: 1 случайная из 8. Предзаказные бонусы: браслет с логотипом альбома: 1 шт, фотокарточка юнита: 2 шт,набор из 5 фотографий для документов",
+         "price": 2390,
+         "categoryId": "2",
+        "subcategoryId": "204",
+        "mainImage": "img/IT-1.webp",
+       "additionalImages": ["img/IT-1.webp", "img/IT-2.webp"]
+    },
+    {
+        "id": 3,
+        "name": "Лайтстик Stray Kids OFFICIAL LIGHT STICK VER.2",
+         "description": "Описание: Наполнение: коробка; лайтстик; браслет-держатель; инструкция",
+        "price": 6790,
+        "categoryId": "1",
+        "subcategoryId": "102",
+        "mainImage": "img/SKZ-1.webp",
+        "additionalImages": ["img/SKZ-1.webp", "img/SKZ-2.webp", "img/SKZ-3.webp", "img/SKZ-4.webp"]
+    },
+    {
+        "id": 4,
+        "name": "Лайтстик (G)I-DLE - Light Stick (Ver. 2)",
+         "description": "Описание: Оригинальный продукт (G)I-DLE",
+        "price": 4990,
+        "categoryId": "1",
+        "subcategoryId": "103",
+        "mainImage": "img/GI-1.webp",
+        "additionalImages": ["img/GI-1.webp", "img/GI-2.webp", "img/GI-3.webp", "img/GI-4.webp"]
+    },
+    {
+        "id": 7,
+        "name": "Альбом NMIXX - Fe3O4: STICK OUT (Limited Ver.)",
+         "description": "Описание: Дата релиза: 19 августа 2024. Сроки доставки 1-2 месяца с даты релиза. Наполнение: сумка, срелок, символ-брелок, мини-диск, фотобук, фотокарта (1 из 6), юнитная фотокарта (1 из 3), сет спикеров. Подарок SOUNDWAVE за предзаказ до 19 августа: фотокарта (1 из 6) за каждый альбом",
+         "price": 3250,
+         "categoryId": "2",
+        "subcategoryId": "205",
+        "mainImage": "img/N-1.webp",
+       "additionalImages": ["img/N-1.webp", "img/N-2.webp", "img/N-3.webp", "img/N-4.webp"]
+    },
+    {
+        "id": 8,
+        "name": "Лайтстик ITZY - Official Light Ring",
+         "description": "Описание: 100% Оригинальный продукт ITZY. Световое кольцо: 171 x 171 x 34 мм и подставка: 93 x 93 x 48 мм. Упаковка: коробка, световое кольцо, подставка, ремешок, QSG. Батарея: Не входит в комплект",
+        "price": 5490,
+        "categoryId": "1",
+        "subcategoryId": "104",
+        "mainImage": "img/I-1.webp",
+        "additionalImages": ["img/I-1.webp", "img/I-2.webp", "img/I-3.webp", "img/I-4.webp"]
+    },
+    {
+        "id": 9,
+        "name": "Альбом JISOO - JISOO FIRST SINGLE ALBUM",
+         "description": "Описание: Дата релиза: 31 марта 2023г. Сроки доставки 1-2 месяца после релиз. Наполнение: коробка, фотобук (88 стр), CD, рандомная селфи фотокарта (1 из 4), рандомный полароид (1 из 4), лирика, закладка",
+         "price": 2190,
+         "categoryId": "2",
+        "subcategoryId": "206",
+        "mainImage": "img/J-1.webp",
+       "additionalImages": ["img/J-1.webp", "img/J-2.webp", "img/J-3.webp", "img/J-4.webp", "img/J-5.webp", "img/J-6.webp"]
+    },
+    {
+        "id": 10,
+        "name": "Лайтстик aespa - Light Stick",
+         "description": "Описание: 100% оригинальный продукт aespa. Содержимое упаковки: коробка, лайтстик aespa, ремешок, руководство пользователя",
+        "price": 4990,
+        "categoryId": "1",
+        "subcategoryId": "105",
+        "mainImage": "img/As-1.webp",
+        "additionalImages": ["img/As-1.webp", "img/As-2.webp", "img/As-3.webp", "img/As-4.webp", "img/As-5.webp"]
+    },
+    {
+        "id": 11,
+        "name": "Лайтстик ATEEZ OFFICIAL LIGHT STICK ver.2",
+         "description": "Описание: Наполнение: коробка; лайтстик; инструкция",
+        "price": 6130,
+        "categoryId": "1",
+        "subcategoryId": "106",
+        "mainImage": "img/A-1.webp",
+        "additionalImages": ["img/A-1.webp", "img/A-2.webp", "img/A-3.webp"]
+    }
+]

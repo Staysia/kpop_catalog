@@ -1,0 +1,16 @@
+{
+    "1": {
+        "name": "Lightsticks",
+        "subcategories": {
+            "101": "Official Lightsticks",
+            "102": "Unofficial Lightsticks"
+        }
+    },
+    "2": {
+        "name": "Album",
+        "subcategories": {
+            "201": "Album Photocards",
+            "202": "Merch Photocards"
+        }
+    }
+}

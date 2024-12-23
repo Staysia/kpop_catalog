@@ -1,0 +1,23 @@
+[
+  {
+      "id": 1,
+      "productId": 1,
+      "parentId": null,
+      "text": "This lightstick is amazing!",
+      "timestamp": "2024-07-16T10:00:00.000Z"
+  },
+  {
+      "id": 2,
+      "productId": 1,
+      "parentId": 1,
+      "text": "I agree! Love it.",
+      "timestamp": "2024-07-16T10:15:00.000Z"
+  },
+  {
+      "id": 3,
+      "productId": 2,
+      "parentId": null,
+      "text": "Cool photos!",
+      "timestamp": "2024-07-16T10:20:00.000Z"
+  }
+]
