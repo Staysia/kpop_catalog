@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Admin Panel</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Admin Panel</h1>
+         <button id="catalog-link">Catalog</button>
+    </header>
+
+    <main>
+         <h2>Добавить товар</h2>
+        <form id="add-product-form">
+            <label for="product-name">Название товара:</label>
+            <input type="text" id="product-name" required><br>
+
+            <label for="product-description">Описание товара:</label>
+            <textarea id="product-description" required></textarea><br>
+
+              <label for="product-category">Категория:</label>
+            <select id="product-category" required></select><br>
+
+              <label for="product-subcategory">Подкатегория:</label>
+            <select id="product-subcategory" required></select><br>
+
+             <label for="main-image">Главное изображение:</label>
+            <input type="file" id="main-image" accept="image/*" required><br>
+
+              <label for="additional-images">Дополнительные изображения:</label>
+            <input type="file" id="additional-images" accept="image/*" multiple><br>
+
+
+            <button type="submit">Добавить товар</button>
+        </form>
+
+        <h2>Список товаров</h2>
+        <div id="admin-product-list"></div>
+
+    </main>
+
+    <footer>
+        <p>&copy; 2024 K-Pop Merch</p>
+    </footer>
+      <script src="script.js"></script>
+</body>
+</html>

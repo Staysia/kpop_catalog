@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>K-Pop Merch Catalog</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>K-Pop Merch Catalog</h1>
+        <nav id="category-nav"></nav>
+        <button id="admin-link">Admin</button>
+    </header>
+
+    <main>
+        <div id="product-list">
+            <div class="product-card">
+                <h2>Лайтстик BLACKPINK - Official Light Stick (Ver. 2)</h2>
+                <img src="img/BP-1.webp" img="" bp-1.webp"="" alt="Лайтстик BLACKPINK - Official Light Stick (Ver. 2)">
+                <button class="view-product" data-product-id="1">Подробнее</button>
+            </div>
+        </div>
+          <div id="modal" class="modal">
+            <div class="modal-content">
+                <span class="close">&times;</span>
+                <div id="modal-product-details"></div>
+                <div id="comment-section">
+                    <h3>Комментарии</h3>
+                      <div id="comment-list">
+                          </div>
+                    <h4>Оставить комментарий</h4>
+                    <textarea id="new-comment-text" placeholder="Введите ваш комментарий"></textarea>
+                     <button id="post-comment">Отправить</button>
+                </div>
+            </div>
+        </div>
+    </main>
+
+    <footer>
+        <p>&copy; 2024 K-Pop Merch</p>
+    </footer>
+    <script src="script.js"></script>
+</body>
+</html>
